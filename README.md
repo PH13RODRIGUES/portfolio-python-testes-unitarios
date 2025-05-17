@@ -1,6 +1,6 @@
 # portfolio-python-testes-unitarios
 Projetos de testes unitários em Python: Calculadora Científica e Sistema de Descontos
-# 🧪 Portfólio de Testes Unitários em Python
+# Portfólio de Testes Unitários em Python
 
 [![Python Version](https://img.shields.io/badge/Python-3.9+-blue?logo=python)](https://www.python.org/downloads/)
 [![Pytest](https://img.shields.io/badge/Pytest-7.4.0-green?logo=pytest)](https://docs.pytest.org)
