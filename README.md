@@ -5,7 +5,6 @@ Projetos de testes unitários em Python: Calculadora Científica e Sistema de De
 [![Python Version](https://img.shields.io/badge/Python-3.9+-blue?logo=python)](https://www.python.org/downloads/)
 [![Pytest](https://img.shields.io/badge/Pytest-7.4.0-green?logo=pytest)](https://docs.pytest.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
-[![Tests](https://github.com/seu-usuario/portfolio-python-testes-unitarios/actions/workflows/tests.yml/badge.svg)](https://github.com/seu-usuario/portfolio-python-testes-unitarios/actions)
 
 <div align="center">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="150" alt="Python Testing">
