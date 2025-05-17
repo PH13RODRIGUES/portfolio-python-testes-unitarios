@@ -34,6 +34,10 @@ pytest -v --cov=.
 
 📊 Métricas de Qualidade
 ✅ 100% de cobertura de testes na calculadora
-✅ 98% de cobertura no sistema de descontos
-✅ 0 warnings no pylint
-✅ CI/CD integrado via GitHub Actions
+✅ sistema de descontos
+
+Tecnológica
+- Python
+- Biblioteca de testes unitários pytest
+- Ferramenta de cobertura de testes pytest-cov
+
